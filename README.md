@@ -16,7 +16,3 @@ I believe in the importance of continuous learning. Currently, I'm diving deeper
 
 - LinkedIn: https://www.linkedin.com/in/vitor-zaffari/
 - Email: vitorzaffari01@gmail.com
-
-Thanks for checking out my GitHub profile. Feel free to explore my repositories and don't hesitate to get in touch if you want to collaborate on a project or just chat about tech!
-
-Happy coding! 😄
